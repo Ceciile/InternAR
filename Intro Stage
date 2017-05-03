@@ -1,11 +1,219 @@
+•Visualisation de composants cachés
+
+
+•Visualisation de métriques liés à un équipement
+
+
+•Visualisation de mode opératoire
+
+
+
 I) Dessiner 3D
 
-1.3D scanner(avec mobile - juste camera)
-2.VR roomscale - Indoor numerique VR dans des usines (avec Google Glass ou par ex. Oculus Rift)
-  Artanim - Capture de mouvement à Genève
+1.3D scanner(avec mobile - juste camera)                                            300 - 400 $
+
+
+a.Eora 3D (précis et peu cher mais pas mal de travaille)
+
+
+Le scanner sera compatible avec Android (certains téléphones) et iOS (pour les appareils plus récents que l’iPhone 5).
+
+
+Le scanner capturait des détails de l’ordre de 250 micromètres (un cheveu fait entre 40 et 100 micromètres de diamètre) sur une cible à environ 1 mètre et sur une surface maximale d’un mètre carré.
+
+b.MatterPort (rapide et qualité d'image HD mais cher)          3000 - 4000 $
+
+
+Les développeurs n'ont pas encore communiqué sur un possible support de l'Oculus Rift, mais il est certain que pouvoir visiter des lieux réel en réalité virtuel serait vraiment fascinant. Il est possible de précommander Matterport pour 4500 $, soit environ 3350 €. Le produit est cher, mais il est surtout destiné aux professionnels. Le temps nécessaire pour numériser un appartement de 100m² est de l'ordre de 1h à 1h30 sur place.
+
+
+Un rendu de très bonne qualité, mais un matériel particulièrement cher (4500 $ seulement pour le scanner. Vous devez acheter en plus de cela le trépied et la tablette qui ne sont pas fourni par Matterport). Heureusement, GoGlasses propose la location du Matterport si vous en avez besoin pour scanner vos biens en 3D. Après l’avoir scanné en 3D, votre bien est également disponible à une visite en réalité virtuelle via un casque de réalité virtuelle tel que le Samsung Gear VR ou le Google Daydream.
+
+c.3D Systems - Sense 3D scanner / Geomagic Capture (pas cher mais aussi bp de travaille)                                                                                 419 $
+
+
+il vous suffit de brancher le 3D Sense (via son câble USB), de capturer le modèle souhaité avec le scanner à main et vous le retrouvez instantanément sur le logiciel de conception 3D fourni.
+
+
+Avec son paramétrage automatique, vous scannez votre objet à une distance comprise entre 35 cm et 300 cm. Vous réglez le niveau de taille de votre modèle (petit, moyen, large) et le tour est joué.
+
+d.Creaform (incroyablement cher)                                      5000 - 20 000 $
+
+
+un scanner 3D portable, intitulé Go!Scan 3D
+
+L’édition supérieure, le Go!Scan 3D 50, se veut encore plus performant.
+
+
+2.Scanner en 3D via smartphone en utilisant le Projet Tango(Android Google)
+
+
+$ 512 dollars (C, JAVA, Unity)
+
+•Explorer
+
+
+•Permission
+
+
+•Constructor
+
+
+•ADF Inspector
+
+
+smartphone avec Tango : Asus ZenFone AR (600 $)   Lenovo Phab 2 Pro (499.99 $)
+
+3.VR room scale - Indoor numérique VR dans des usines (avec Google Glass)
+
+
+type de casques (Samsung Gear VR, Google Daydream ou Cardboard)
+
+
+a.Occipital Bridge - Structure Sensor(IPad / IPhone 6)                379 - 519 $
+
+
+À l’origine, la startup Occipital s’est illustrée en créant le capteur Structure Sensor. Cet accessoire pour iPad permet de scanner une salle en temps réel de façon très détaillée. La firme s’est récemment aperçue qu’en intégrant ce capteur à un casque VR, elle pourrait proposer un système de Room Scale efficace et novateur ainsi qu’un système de réalité augmentée. C’est ainsi qu’est né le Bridge. 
+
+b.Oculus Rift                                                                                            $599
+
+
+Oculus s’est associé à des fabricants d’ordinateurs et de composants de premier ordre pour fournir une gamme de systèmes optimisés pour le Rift. Ils ont été conçus, assemblés et testés en pensant au Rift, pour que vous soyez sûr de vivre une formidable expérience en VR.
+
+c.HTC Vive                                                                                              $799
+
+
+Rendez-vous chez un partenaire revendeur pour une démonstration du VIVE. Venez apprécier le meilleur des contenus interactifs et de la vidéo à 360°. Discutez des prochaines innovations avec des experts et rejoignez le futur.
+
+
+Artanim - Capture de mouvement à Genève
+
+•Vicon MXT40S, 24 caméras
+
+
+•4.0 megapixel par caméra
+
+
+•capture jusqu'à 515 images/s
+
+
+•Xsens MVN, 17 capteurs de mouvement inertiels MTx
+
+
+•technologie sans fil temps réel
+
+
+•à utiliser n'importe où, pas de studio nécessaire
+
+
+•Caméras RGB-D
+
+
+•ex : Microsoft Kinect
+
+
+Equipements :
+
+•Système de caméra virtuelle OptiTrack Insight
+
+
+•Scanner 3D photogrammétrique
+
+
+•96 caméras
+
+
+•Oculus Rift, HTC Vive
+
+
+•Microsoft HoloLens
+
+
+Logiciels pour la VR/AR :
+
+•Vicon Blade, Tracker
+
+
+•MVN Studio
+
+
+•Autodesk Creation Suite
+
+
+•3ds Max, Maya, MotionBuilder
+
+
+•Adobe Production Premium
+
+
+•After Effects, Premiere, Photoshop
+
+
+•Unity 3D
+
+
+
+4.Lunettes de réalité augmentée type Microsoft Hololens (Win10   $ 3,000) ou Magic Leap ($ 990)
+
+
+Notre client doit pouvoir à la fois posséder une application sur son smartphone et également sur ses lunettes.
+
+5.Lightform(a l’avenir)
+
+
+On parle là de technologie dite de « projection mapping » , connue également sous le nom de « réalité augmentée projetée ». Il s’agit d’exploiter des vidéoprojecteurs afin de diffuser l’image sur des surfaces irrégulières comme des visages, des pièces ou des bâtiments.
+
+Jusqu’à présent, le processus était complexe et onéreux. Mais Lightform vise à le simplifier en vue de le démocratiser. Ainsi, son premier produit éponyme automatise entièrement.
+
+
 
 II) Montrer Metrique(SQL Server - CORIM Service)
+
 Selon IHM - Graphiquement (rouge et courbes flottantes ou croissant par ex.km, texture, notice)
 
+
 III) Modes Opératoires
+
 Interventions(date, qui, prevenir la suite) - les sequences avec des docs Format plutot que texte
+
+
+
+
+
+
+
+
+Annexe : 
+
+http://theatre-hexagone.eu/wp-content/uploads/sites/20/2016/09/DP-XPA-ok1.pdf
+
+http://experimenta.fr/vr-i/
+
+VR_I                     PROJET DE PIÈCE CHORÉGRAPHIQUE IMMERSIVE
+
+http://www.inglobetechnologies.com/en/new_products/arplugin_maya/download/_current_/UsersGuideWin.pdf
+
+http://www.realite-virtuelle.com/occipital-bridge-1112
+
+http://newatlas.com/best-vr-headset-gdc-2016/42377/
+
+http://www.realite-virtuelle.com/capteurs-de-mouvements-vr-roomscale-rift
+
+
+
+
+
+
+
+
+Demo:
+
+http://www.xuanyusong.com/archives/667
+
+http://www.doc88.com/p-1912960945000.html
+
+http://www.docin.com/p-617641969.html
+
+https://medium.com/@dariony/room-scale-vr-using-unity3d-da39919d1063
+
+
